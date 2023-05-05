@@ -8,3 +8,11 @@ I think that this should say different things like this and then the main repo s
 ## How do I do this, I am amazing
 
 Check out what I am doing! I am a code boi
+
+### Local Development
+
+1. Open Index.html in your browser.
+
+Why is this not showing up as modified. 
+
+More changes more changes
