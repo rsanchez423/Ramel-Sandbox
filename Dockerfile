@@ -1,7 +1,7 @@
 FROM node:19-alpine
 
 COPY package.json /app/
-COPY ramel-sandbox /app/
+COPY . /app/
 
 WORKDIR /app
 
